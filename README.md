@@ -8,5 +8,7 @@ The types of items to be shipped in this situation are divided into two main cat
 
 - **Perishable products**: These include food and medicine, which have an expiry date. We refer to these products as *Perishables*.
 
+To accomplish this task I have created several classes to encapsulate the problem and provide a solution for this application.
+
 **Tech stacks:**
 - Object-Oriented Programming in C++
